@@ -1,0 +1,8 @@
+
+netty:
+  ip: localhost
+  port: 10000
+server:
+  port: 8081
+config:
+  shard: 8192

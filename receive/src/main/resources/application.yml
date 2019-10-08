@@ -1,0 +1,5 @@
+netty:
+  ip: localhost
+  port: 10000
+config:
+  writePath: /Users/zhaokai/receive/
